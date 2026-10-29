@@ -1,6 +1,13 @@
 # Generative 3D Model: Marienplatz 🏙️
 
-This repository contains prompt engineering templates and workflows for generating 3D architectural models via LLMs. Showcasing rapid prototyping capabilities (e.g., Marienplatz in <3 hours), this project aims to provide reproducible text-to-3D workflows. All prompts will be released under the MIT license upon reaching 100 repository stars.
+This project aims to provide reproducible text-to-3D workflows. All prompts will be released under the MIT license upon reaching 100 repository stars.
+
+# Hardware & Models
+Model: Qwen3.8-27b
+Hardware: M2 Ultra 24C/60C
+RAM: 64GB
+Harness: Bionic (LM Studio)
+
 
 ## ⭐ Unlock the Prompts! (Goal: 100 stars!)
 
