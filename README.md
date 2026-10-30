@@ -24,12 +24,6 @@ This initial 3D model was generated from a completely blank slate using a **sing
 
 ![Marienplatz Initial Model - Single Prompt](assets/videos/prompt1.gif)
 
-### 2. Upgraded Model (After 2 additional prompts)
-By feeding the initial output back into the model with just two more targeted refinement prompts, the detail, texturing, and structural accuracy were vastly improved.
-
-![Marienplatz Upgraded Model - 3 Prompts Total](assets/videos/after-prompt3.gif)
-
-
 ---
 
 ## Attribution & Citation
