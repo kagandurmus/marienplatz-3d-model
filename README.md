@@ -1,6 +1,6 @@
 # Generative 3D Model: Marienplatz 🏙️
 
-This project aims to provide reproducible text-to-3D workflows. All prompts will be released under the MIT license upon reaching 100 repository stars.
+This project aims to provide reproducible text-to-3D workflows. All prompts will be released under the MIT license upon reaching 20 repository stars.
 
 # Hardware & Models
 Model: Qwen3.8-27b
@@ -9,9 +9,9 @@ RAM: 64GB
 Harness: Bionic (LM Studio)
 
 
-## ⭐ Unlock the Prompts! (Goal: 100 stars!)
+## ⭐ Unlock the Prompts! (Goal: 20 stars!)
 
-I will publish the complete prompt workflow (the initial base prompt and the two upgrade prompts) completely free and open-source once this repository reaches **100 Stars**. 
+I will publish the complete prompt workflow (the initial base prompt and the two upgrade prompts) completely free and open-source once this repository reaches **20 Stars**. 
 
 If you want to see how this was done and try it yourself, **Star ⭐ this repository**!
 
