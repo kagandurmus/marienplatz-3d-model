@@ -1,6 +1,9 @@
 # Generative 3D Model: Marienplatz 🏙️
 
-This project aims to provide reproducible text-to-3D workflows. All prompts will be released under the MIT license upon reaching 20 repository stars.
+This project aims to provide reproducible text-to-3D workflows using local AI. All prompts will be released under the MIT license.
+
+# Disclaimer
+The generation of the 3D model can very heavily depending on LLM model, the harness and the advanced settings used. The showcased video output was generated using the below mentioned hardware under 3 hours of uninterrupted agentic coding.
 
 # Hardware & Models
 Model: Qwen3.8-27b
@@ -9,11 +12,9 @@ RAM: 64GB
 Harness: Bionic (LM Studio)
 
 
-## ⭐ Unlock the Prompts! (Goal: 20 stars!)
+## ⭐ Star the Repo for FREE Prompts like this! (Goal: 20 stars!)
 
-I will publish the complete prompt workflow (the initial base prompt and the two upgrade prompts) completely free and open-source once this repository reaches **20 Stars**. 
-
-If you want to see how this was done and try it yourself, **Star ⭐ this repository**!
+If you want to see more prompts for local AI, **Star ⭐ this repository**!
 
 ---
 
