@@ -11,11 +11,6 @@ Hardware: M2 Ultra 24C/60C
 RAM: 64GB
 Harness: Bionic (LM Studio)
 
-
-## ⭐ Star the Repo for FREE Prompts like this! (Goal: 20 stars!)
-
-If you want to see more prompts for local AI, **Star ⭐ this repository**!
-
 ---
 
 ## Showcase
