@@ -35,7 +35,7 @@ By feeding the initial output back into the model with just two more targeted re
 ## Attribution & Citation
 
 ```text
-3D Generation Prompts by Kagan Durmus (https://github.com/kagandurmus/marienplatz-3d-models)
+3D Generation Prompts by Kagan Durmus (https://github.com/kagandurmus/marienplatz-3d-model)
 ```
 
 ## License
